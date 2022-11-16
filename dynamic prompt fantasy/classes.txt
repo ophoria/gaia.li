@@ -1,0 +1,2 @@
+# Single Class
+{artificer|bard|tinkerer|{fighter|soldier|warrior|barbarian}|mystic|{ranger|archer}|druid|{warlock|wizard|sorcerer}|healer|{priest|priestess|nun|monk|cleric}|holy|paladin|rogue|{explorer|adventurer}|assasin|{thug|bandit|rascal|thief}|{sniper|musketeer}}

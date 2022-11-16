@@ -1,0 +1,362 @@
+Animal Handler
+Arborist
+Beekeeper
+Birdcatcher
+Cowherd
+{Dairyboy|Dairymaid}
+Falconer
+Farmer
+Fisher
+Forager
+Gamekeeper
+Groom
+Herder
+Horse Trainer
+Hunter
+Master-of-Hounds
+Miller
+Prospector
+Ranger
+Renderer
+Shepherd
+Stablehand
+Thresher
+Trapper
+Vintner
+Woodcutter
+Zookeeper
+Architect
+Brickmaker
+Brickmason
+Carpenter
+Claymason
+Plasterer
+Roofer
+Stonemason
+Streetlayer
+Acrobat
+Actor
+Chef
+Dancer
+Gladiator
+Glasspainter
+Jester
+Illuminator
+Minstrel
+Musician
+Painter
+Piper
+Playwright
+Poet
+Sculptor
+Singer/Soprano
+Tattooist
+Wrestler/Brawler
+Writer
+Accountant
+Banker
+{Brothel Owner|Pimp}
+Chandler
+Collector
+Entrepreneur
+Fishmonger
+General Contractor
+Grocer
+Guild Master
+Innkeeper
+Ironmonger
+Merchant
+Peddler
+Plantation Owner
+Speculator
+Street Vendor
+Thriftdealer
+Tradesman
+Courier
+Herald
+Interpreter
+Linguist
+Messenger
+Town Crier
+Translator
+Armorer
+Blacksmith
+Bladesmith
+Bookbinder
+Bowyer
+Brewer
+Broom Maker
+Candlemaker
+Cartwright
+Cobbler
+{Cooper|Hooper}
+Cutler
+Embroiderer
+Engraver
+Fletcher
+Furniture Artisan
+Furrier
+{Glazier|Glassmaker}
+Glovemaker
+{Goldsmith|Silversmith}
+{Hatter|Milliner}
+Jeweler
+Leatherworker
+Locksmith
+Mercer
+Potter
+Printer
+Rope-maker
+Saddler
+{Seamstress|Tailor}
+Soaper
+Tanner
+Taxidermist
+Thatcher
+Tinker
+Toymaker
+Watchmaker
+Weaponsmith
+Weaver
+Wheelwright
+Whittler
+Woodcarver
+Assassin
+Bandit
+Burglar
+{Charlatan|Conman}
+{Cockfighter|Gamefighter}
+Crime Boss
+Cutpurse
+Drug Lord
+Fence
+Kidnapper
+Loan Shark
+Outlaw
+Pirate
+Poacher
+Smuggler
+{Thief|Rogue}
+Anthropologist
+Apprentice
+Archaeologist
+Archivist
+Artificer
+Astrologer
+Botanist
+Cartographer
+Chemist
+Dean
+Engineer
+Historian
+Horologist
+Librarian
+Mathematician
+Philosopher
+Professor
+{Scholar|Researcher}
+Scribe
+Student
+Teacher
+Theologian
+Tutor
+{Archduke|Archduchess}
+Aristocrat
+{Baron|Baroness}
+Chancellor
+Chief
+Constable
+{Count|Countess}
+Courtier
+Diplomat
+{Duke|Duchess}
+{Emperor|Empress}
+Judge
+{King|Queen}
+Knight
+Lady-in-Waiting
+{Lawyer|Advocate}
+Marquess
+Master of Coin
+Master of the Revels
+Minister
+Noble
+{Orator|Spokesman}
+{Prince|Princess}
+Steward
+Squire
+Tax Collector
+{Viscount|Viscountess}
+Ward
+Alchemist
+Apothecary
+Bloodletter
+Doctor
+Healer
+Herbalist
+Midwife
+Mortician
+Nurse
+Physician
+{Surgeon|Chirurgeon}
+Veterinarian
+Baker
+Barber
+Barkeep
+Barmaid
+Butcher
+Charcoal Maker
+{Chatelaine|Majordomo}
+Chimney Sweeper
+Clerk
+Cook
+Copyist
+Croupier
+Distiller
+Florist
+Gardener
+Gongfarmer
+Gravedigger
+Housemaid
+Kitchen Drudge
+Laborer
+Lamplighter
+Landscaper
+Laundry Worker
+Longshoreman
+{Maid|Butler}
+Miner
+Orphanage Caretaker
+Page
+Pastry Chef
+Plumer
+Porter
+Prostitute
+Rag-and-Bone Man
+Slave
+Street Sweeper
+Tavern Worker
+Vermin Catcher
+Water Bearer
+Abjurer
+Archmage
+Augurer
+Conjuror
+Elementalist
+{Enchanter|Enchantress}
+Evoker
+Hearth-witch
+Illusionist
+Mage
+Necromancer
+Ritualist
+Runecaster
+Sage
+{Seer|Oracle}
+Shaman
+Shapeshifter
+{Sorcerer|Sorceress}
+Summoner
+Transmuter
+Warlock
+Witchdoctor
+Witch
+Wizard
+Wordsmith
+Admiral
+Archer
+Bailiff
+Bodyguard
+Bouncer
+Captain
+Castellan
+Cavalier
+City Watch
+{Detective|Investigator}
+Duelist
+Executioner
+Fireman
+Guard
+General
+Jailer
+Man-at-Arms
+Marshall
+Mercenary
+Sapper
+Sentinel
+Sergeant
+Sergeant-at-Arms
+Scout
+Siege Artillerist
+Slave Driver
+Soldier
+Spearman
+Spy
+Tactician
+Torturer
+Warden
+Warmage
+{Abbot|Abbess}
+Acolyte
+Archbishop
+Bishop
+Cardinal
+Chaplain
+Clergy
+Cleric
+Cultist
+Cult Leader
+Diviner
+Friar
+High {Priest|Pope}
+Inquisitor
+Missionary
+Monk
+Nun
+Paladin
+Pardoner
+Priest
+Prophet
+Sexton
+Templar
+Boatman
+Bosun
+{Cabbie|Wagoner}
+Caravaneer
+Caravan Guard
+Charioteer
+Ferryman
+First Mate
+Helmsman
+Navigator
+Purser
+Sailor
+Sea Captain
+Shipwright
+Swab
+Adventurer
+Beggar
+{Bounty|Blood|Monster} Hunter
+Deserter
+Disgraced Noble
+Dungeon Delver
+{Elder|Retiree}
+Exile
+Explorer
+Ex-Criminal
+Far Traveler
+Folk Hero
+Fool
+Gambler
+{Grave Robber|Tomb Raider}
+Heckler
+Heretic
+Hermit
+Housewife
+Pilgrim
+{Rebel|Dissident}
+Refugee
+Runaway Slave
+Squatter
+Urchin
+Vagabond

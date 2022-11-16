@@ -1,0 +1,8 @@
+# underwater {atlantis|ancient fantasy merfolk city|fantasy coral reef city}
+#
+#
+{ancient|barbarian|elvish|orcish|medieval|gothic|spartan|roman|anglo-saxon|germanic|ottoman|egyptian|nubian|aztec|indian|asian|chinese|japanese|polynesian} fantasy d&d {castle|city|village|fortification|fortress|tomb|temple|graveyard|military camp|arena|igloo|holy building|church|mosque|synagog|holy place|catacombs|ceremonial grounds|pagoda|palace|dome|important building|amazing monument|stables|forge|smith|tavern|market|nobles house|tower|obelisk|lair|den|farmland|farm}
+#
+#d&d fantasy {Sword Coast|Avernus|Icewind Dale|Theros|Eberron|Saltmarsh|Wildemount|Waterdeep|Neverwinter|Baldur's Gate|The Radiant Citadel|Menzoberranzan|Castle Ravenloft|The Tomb of Horrors|Candlekeep|Grimskalle|The Yawning Portal|Strixhaven|The Amber Temple|Undermountain|The tomb of the nine gods|White plume mountain}
+#
+#fantasy {Abeir-Toril|Albion|Asgard|Avalon|Averoigne|Azeroth|Barsoom|Darkover|Deltora|Destiny Island|Dinotopia|Discworld|Dreamlands|Earthsea|Ecantadia|Equestria|Eternia|Filgaia|Gaia|The Four Lands|The Four Nations|Glorantha|Gor|Halkeginia|Hyborian Age|Ivalice|Magic Kingdom of Landover|Lankhmar|Magic the Gathering|Melnibone|Middle-Earth|Myst|Narnia|Neverland|Land of Oz|Prydian|Spira|Tekumel|Thedas|Thieves World|Warhammer|Westeros|Witch World|The World ot the Wheel|Xanth}

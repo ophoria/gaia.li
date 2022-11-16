@@ -1,0 +1,4 @@
+{sandstorm|storm|tornado|tyfoon|blizzard|hurricane}
+{mild|heavy|medium|} {rain|snow|fog|drizzle}
+{sunny|good|clear|beautiful|fine|overcast} weather
+{cloudy|murky|bad|partially cloudy} weather

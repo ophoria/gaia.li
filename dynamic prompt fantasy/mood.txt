@@ -1,0 +1,11 @@
+happy
+depressed
+sad
+exhausted
+exalted
+euphoric
+manic
+hurt
+lovesick
+moody
+serious
